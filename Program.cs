@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Введите ваше имя!  ");
+
+// начало   
